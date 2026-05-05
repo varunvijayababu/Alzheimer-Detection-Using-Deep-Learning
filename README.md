@@ -156,7 +156,7 @@ Alzheimer-Detection-Using-Deep-Learning/
 ## 👨‍💻 Author
 
 **Varun Vijaya Babu**
-📧 [vv5527@srmist.edu.in](mailto:varunvbabu@gmail.com)
+📧 [varunvbabu@gmail.com](mailto:varunvbabu@gmail.com)
 
 ---
 
