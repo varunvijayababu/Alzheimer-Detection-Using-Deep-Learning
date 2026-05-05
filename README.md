@@ -39,7 +39,7 @@ MRI Image → ResNet50 → Attention → Dense Layers → Prediction → Grad-CA
 ---
 
 ## 📊 Dataset
-[(Dataset)](https://drive.google.com/file/d/1jVKENvRj5N7DLR3nR9tXACaNTOuz_uxl/view?usp=drive_link)
+[(Dataset Link)](https://www.kaggle.com/datasets/azminur2856/alzheimer-mri-dataset)
 
 * **Source:** Kaggle Alzheimer MRI Dataset
 
@@ -156,7 +156,7 @@ Alzheimer-Detection-Using-Deep-Learning/
 ## 👨‍💻 Author
 
 **Varun Vijaya Babu**
-📧 [vv5527@srmist.edu.in](mailto:vv5527@srmist.edu.in)
+📧 [vv5527@srmist.edu.in](mailto:varunvbabu@gmail.com)
 
 ---
 
